@@ -1,10 +1,10 @@
-## Data lab notebook
+
 
 <div align="center">
 
 # Malik Fahid Asif
 
-> Frontend or full-stack engineer
+> Data Scientist - AI/ML Developer - AI Automation
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=themalikfahid&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177947073%3Fu%3D7e6945be21f465d5f5b06d650ccabdb32fc6017b%26v%3D4" alt="themalikfahid hero visual" />
@@ -22,13 +22,13 @@
 
 ## Methods and tools
 
-- **Jupyter Notebook** · 50%
-- **Python** · 25%
-- **HTML** · 18%
-- **TeX** · 5%
-- **JavaScript** · 1%
-- **CSS** · 1%
-- **Dockerfile** · 0%
+- **Jupyter Notebook** 
+- **Python** · 
+- **HTML** · 
+- **TeX** · 
+- **JavaScript** · 
+- **CSS** · 
+- **Dockerfile** · 
 
 ## Research notes
 
