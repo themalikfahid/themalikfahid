@@ -7,7 +7,20 @@
 > Data Scientist - AI/ML Developer - AI Automation
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=themalikfahid&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177947073%3Fu%3D7e6945be21f465d5f5b06d650ccabdb32fc6017b%26v%3D4" alt="themalikfahid hero visual" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Malik%20Fahid%20Asif&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt="Malik Fahid Asif"
+  />
+</p>
+
+<p align="center">
+  <b>Data Science • AI/ML • Full-Stack Development • Automation</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=themalikfahid&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/themalikfahid?style=flat-square&label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/themalikfahid?style=flat-square&label=Stars" alt="GitHub Stars"/>
 </p>
 
 </div>
