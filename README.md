@@ -1,12 +1,14 @@
-[README (1).md](https://github.com/user-attachments/files/31795561/README.1.md)
+[README.md](https://github.com/user-attachments/files/31795625/README.md)
 <div align="center">
 
-<!-- Dynamic Animated Header -->
+<!-- Animated Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malik%20Fahid%20Asif&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 ### 👨‍💻 Python Developer | ML & Automation
 
-```
+</div>
+
+```text
 themalikfahid@github ~ $ ./profile-scan --live                                          ● LIVE
 
   VISUAL.MAP                                    SYSTEM.INFO
@@ -41,6 +43,8 @@ themalikfahid@github ~ $ ./profile-scan --live                                  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%   
 ```
 
+<div align="center">
+
 <br>
 
 ### 🛠️ Languages & Tools
@@ -61,8 +65,12 @@ themalikfahid@github ~ $ ./profile-scan --live                                  
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themalikfahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malik Fahid's GitHub Stats" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themalikfahid&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=themalikfahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malik Fahid's GitHub Stats" height="175"/>
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=themalikfahid&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175"/>
+  </a>
 </p>
 
 </div>
