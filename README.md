@@ -59,20 +59,51 @@ Interests: Machine Learning, Explainable AI, Full-Stack Development & Data-Drive
 - **[global-air-quality-aqi-prediction](https://github.com/themalikfahid/global-air-quality-aqi-prediction)** — Data science project for global air quality analysis, AQI classification, pollutant trend visualization, and machine learning-based AQI prediction. · ⭐ 0
 - **[jobs-links-scraper](https://github.com/themalikfahid/jobs-links-scraper)** — Featured public work · ⭐ 0
 
-## Findings
+## 🔎 Findings
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=themalikfahid&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177947073%3Fu%3D7e6945be21f465d5f5b06d650ccabdb32fc6017b%26v%3D4" alt="themalikfahid highlights visual" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=themalikfahid&bg_color=00000000&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
-
-<p><b>Malik Fahid Asif</b> is shipping 10 public projects with 1 stars of proof.</p>
-
-## Compare notes
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=themalikfahid&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177947073%3Fu%3D7e6945be21f465d5f5b06d650ccabdb32fc6017b%26v%3D4" alt="themalikfahid social visual" />
+  <b>🚀 Building • Learning • Experimenting • Shipping</b>
 </p>
 
-<a href="https://github.com/themalikfahid">GitHub</a>
+<p align="center">
+  I build projects across <b>Data Science</b>, <b>AI/ML</b>,
+  <b>Full-Stack Development</b>, and <b>Automation</b>.
+  <br/>
+  My main interests include <b>HealthTech</b>, <b>Automobiles</b>,
+  and intelligent data-driven solutions.
+</p>
 
-<p align="center"><sub>Malik Fahid Asif · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/themalikfahid">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/themalikfahid/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Let's build something intelligent together.</i> 🤝
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&animation=fadeIn"
+    width="100%"
+    alt="Footer"
+  />
+</p>
