@@ -1,51 +1,17 @@
-[README.md](https://github.com/user-attachments/files/31795625/README.md)
-<div align="center">
+[README (1).md](https://github.com/user-attachments/files/31795720/README.1.md)
+[README (1).md](https://github.com/user-attachments/files/31795715/README.1.md)<div align="center">
 
 <!-- Animated Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malik%20Fahid%20Asif&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 ### 👨‍💻 Python Developer | ML & Automation
 
-</div>
+<!-- GitSkins Showcase Card -->
+<a href="https://github.com/themalikfahid">
+  <img src="https://gitskins.vercel.app/api?username=themalikfahid&theme=showcase" alt="GitSkins Showcase" width="100%"/>
+</a>
 
-```text
-themalikfahid@github ~ $ ./profile-scan --live                                          ● LIVE
-
-  VISUAL.MAP                                    SYSTEM.INFO
-  ────────────────────────────                  ──────────────────────────────────────────────────
-                 :-=+++++==-.                  
-               -*#%%%%%%%%%##+.                Subject ....................... Malik Fahid Asif
-              .###*+=====+*####:               
-             :*#+-:::::...:-*###.              Handle ........................ @themalikfahid
-             +%#=:::::::....:*#*.              
-             :%+-====-:--=+=--#-               Location ...................... Lahore, Pakistan
-             .*-=+***=:-++*+=:+:               
-             -=-:-----:.:--::.--               Role .......................... Python Developer | ML & Automation
-              --:::::----::::::.               
-               .-----====--:::                 Status ........................ Building | Learning | Shipping
-                .--=++++===-:                  
-                 -==-===----:                  Languages ..................... Python, Jupyter Notebook, JS, HTML
-               .=:=+=====---:.                 
-            .:=##..-=+++==-: *=.               Repositories .................. 11
-      .:-=+##%%%%-  .:---:.  *%#*+-.           
- .-=+*##%%%%%%%%%*.  .=**-  .####%%##*=-:      Stars ......................... 1
-+#%%%%##%%%%%%%%%%- .=*%#+: .*############*-   
-#%%%######%%%%%%%%*...:##:  .#############%#   Following ..................... 1
-%%%%%%%%%%#%%%%%%%#:  +%%* :#############%#   Followers ..................... 0
-%%%%%%%%%%%#%%#%%%%+ :####- +%###########%%#   
-%%%%%%%%%%###%%#%%%%:-%##%+.#############%%%   
-%%%%%%%%%%%%##%%#%#%*+%###*=%#########%%%%%%   
-%%%%%%%%%%%%%%%%%#%#%%%#####%####%##%%%%%%%%   
-%%%%%%%%%%%%%%%%%%#%%%%%##%%####%%%%%%%%%%%%   
-%%%%%%%%%%%%%%%%%%%#%%%%#%%%###%%%%%%%%%%%%%   
-%%%%%%%%%%%%%%%%%%%%#%%%%%%%##%%%%%%%%%%%%%%   
-%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%   
-%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%   
-```
-
-<div align="center">
-
-<br>
+<br><br>
 
 ### 🛠️ Languages & Tools
 
