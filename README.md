@@ -37,8 +37,8 @@
 
 ```yaml
 name: Malik Fahid Asif
-focus: public experiments
-languages: [Jupyter Notebook, Python, HTML, TeX, JavaScript]
+focus: Health Sector, Automobiles
+languages: [Python, HTML, React, JavaScript, C#, Node, Tailwind CSS]
 repositories: 10
 ```
 
