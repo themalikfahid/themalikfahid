@@ -1,33 +1,68 @@
+[README (1).md](https://github.com/user-attachments/files/31795561/README.1.md)
 <div align="center">
 
+<!-- Dynamic Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Malik%20Fahid%20Asif&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+### 👨‍💻 Python Developer | ML & Automation
+
 ```
-themalikfahid@github:~$ ./wordmark.sh --name
+themalikfahid@github ~ $ ./profile-scan --live                                          ● LIVE
 
- __  __          _      _____ _  __   ______      _    _ _____ _____  
-|  \/  |   /\   | |    |_   _| |/ /  |  ____/\   | |  | |_   _|  __ \ 
-| \  / |  /  \  | |      | | | ' /   | |__ /  \  | |__| | | | | |  | |
-| |\/| | / /\ \ | |      | | |  <    |  __/ /\ \ |  __  | | | | |  | |
-| |  | |/ ____ \| |____ _| |_| . \   | | / ____ \| |  | |_| |_| |__| |
-|_|  |_/_/    \_\______|_____|_|\_\  |_|/_/    \_\_|  |_|_____|_____/ 
+  VISUAL.MAP                                    SYSTEM.INFO
+  ────────────────────────────                  ──────────────────────────────────────────────────
+                 :-=+++++==-.                  
+               -*#%%%%%%%%%##+.                Subject ....................... Malik Fahid Asif
+              .###*+=====+*####:               
+             :*#+-:::::...:-*###.              Handle ........................ @themalikfahid
+             +%#=:::::::....:*#*.              
+             :%+-====-:--=+=--#-               Location ...................... Lahore, Pakistan
+             .*-=+***=:-++*+=:+:               
+             -=-:-----:.:--::.--               Role .......................... Python Developer | ML & Automation
+              --:::::----::::::.               
+               .-----====--:::                 Status ........................ Building | Learning | Shipping
+                .--=++++===-:                  
+                 -==-===----:                  Languages ..................... Python, Jupyter Notebook, JS, HTML
+               .=:=+=====---:.                 
+            .:=##..-=+++==-: *=.               Repositories .................. 11
+      .:-=+##%%%%-  .:---:.  *%#*+-.           
+ .-=+*##%%%%%%%%%*.  .=**-  .####%%##*=-:      Stars ......................... 1
++#%%%%##%%%%%%%%%%- .=*%#+: .*############*-   
+#%%%######%%%%%%%%*...:##:  .#############%#   Following ..................... 1
+%%%%%%%%%%#%%%%%%%#:  +%%* :#############%#   Followers ..................... 0
+%%%%%%%%%%%#%%#%%%%+ :####- +%###########%%#   
+%%%%%%%%%%###%%#%%%%:-%##%+.#############%%%   
+%%%%%%%%%%%%##%%#%#%*+%###*=%#########%%%%%%   
+%%%%%%%%%%%%%%%%%#%#%%%#####%####%##%%%%%%%%   
+%%%%%%%%%%%%%%%%%%#%%%%%##%%####%%%%%%%%%%%%   
+%%%%%%%%%%%%%%%%%%%#%%%%#%%%###%%%%%%%%%%%%%   
+%%%%%%%%%%%%%%%%%%%%#%%%%%%%##%%%%%%%%%%%%%%   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%   
 ```
-
-
-</div>
 
 <br>
 
-<div align="center">
+### 🛠️ Languages & Tools
 
-### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+<br>
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=themalikfahid&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=themalikfahid&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themalikfahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malik Fahid's GitHub Stats" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themalikfahid&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175"/>
+</p>
 
 </div>
