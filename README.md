@@ -1,12 +1,5 @@
 
 
-<div align="center">
-
-# Malik Fahid Asif
-
-> Data Scientist - AI/ML Developer - AI Automation
-<!-- ==================== HERO ==================== -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Malik%20Fahid%20Asif&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
