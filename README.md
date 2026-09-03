@@ -5,17 +5,20 @@
 # Malik Fahid Asif
 
 > Data Scientist - AI/ML Developer - AI Automation
+<!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=themalikfahid&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177947073%3Fu%3D7e6945be21f465d5f5b06d650ccabdb32fc6017b%26v%3D4" alt="themalikfahid hero visual" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Malik%20Fahid%20Asif&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    width="100%"
+    alt="Malik Fahid Asif"
+  />
 </p>
 
-</div>
-
-## Evidence
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=themalikfahid&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177947073%3Fu%3D7e6945be21f465d5f5b06d650ccabdb32fc6017b%26v%3D4" alt="themalikfahid stats visual" />
+  <a href="https://github.com/themalikfahid">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI%2FML+%7C+Full-Stack+Developer;Building+Data-Driven+%26+Intelligent+Solutions;HealthTech+%7C+Automobiles+%7C+Automation" alt="Typing animation" />
+  </a>
 </p>
 
 <p><code>59 contributions</code> · <code>1 day streak</code></p>
