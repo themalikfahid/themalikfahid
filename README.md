@@ -36,10 +36,11 @@
 <summary><b>profile.manifest</b></summary>
 
 ```yaml
-name: Malik Fahid Asif
-focus: Health Sector, Automobiles
-languages: [Python, HTML, React, JavaScript, C#, Node, Tailwind CSS]
-repositories: 10
+**Name:** Malik Fahid Asif
+**Focus:** Data Science, AI/ML, HealthTech & Automotive Technology
+**Languages & Technologies:** Python, JavaScript, React, Node.js, C#, HTML, Tailwind CSS
+**Repositories:** 10+
+**Interests:** Machine Learning, Explainable AI, Full-Stack Development & Data-Driven Solutions
 ```
 
 </details>
