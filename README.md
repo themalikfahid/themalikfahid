@@ -20,15 +20,68 @@
 
 <p><code>59 contributions</code> · <code>1 day streak</code></p>
 
-## Methods and tools
+## 🛠️ Methods & Tools
 
-- **Jupyter Notebook** 
-- **Python** · 
-- **HTML** · 
-- **TeX** · 
-- **JavaScript** · 
-- **CSS** · 
-- **Dockerfile** · 
+### 💻 Programming & Web Development
+- 🐍 **Python**
+- 🟨 **JavaScript**
+- ⚛️ **React.js**
+- 🟦 **C# / .NET**
+- 🟢 **Node.js**
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- 💨 **Tailwind CSS**
+
+### 🤖 Data Science & AI
+- 📊 **Pandas**
+- 🔢 **NumPy**
+- 📈 **Matplotlib**
+- 🧠 **Scikit-learn**
+- 🚀 **XGBoost**
+- 💡 **LightGBM**
+- 🔍 **SHAP**
+- 🗣️ **NLTK**
+- 🧩 **spaCy**
+- 🤗 **Hugging Face**
+- 🔤 **Sentence Transformers**
+- 🔎 **FAISS**
+
+### 🔄 Automation & Data Engineering
+- ⚙️ **n8n**
+- 🕸️ **BeautifulSoup**
+- 🕷️ **Scrapy**
+- 🔗 **REST APIs**
+- 🔄 **ETL / Data Pipelines**
+
+### 🗄️ Databases
+- 🐘 **PostgreSQL**
+- 🐬 **MySQL**
+- 🍃 **MongoDB**
+- 🔎 **FAISS Vector Database**
+
+### 🐳 DevOps & Deployment
+- 🐳 **Docker**
+- ☁️ **AWS**
+- ☁️ **Microsoft Azure**
+- 🔁 **CI/CD**
+- 🌐 **Cloudflare**
+
+### 🧰 Development & Collaboration
+- 🐙 **Git & GitHub**
+- 💻 **VS Code**
+- 📓 **Jupyter Notebook**
+- 🧪 **Streamlit**
+- 🚀 **FastAPI**
+- 📝 **TeX / LaTeX**
+
+### 🔧 Data Science Tools
+- 🔷 **KNIME**
+- 🔄 **n8n**
+- 🐳 **Docker**
+- 🕸️ **Web Scraping**
+- 📊 **Data Visualization**
+- 🤖 **Machine Learning**
+- 🧠 **Explainable AI (XAI)**
 
 ## Research notes
 
@@ -36,11 +89,11 @@
 <summary><b>profile.manifest</b></summary>
 
 ```yaml
-**Name:** Malik Fahid Asif
-**Focus:** Data Science, AI/ML, HealthTech & Automotive Technology
-**Languages & Technologies:** Python, JavaScript, React, Node.js, C#, HTML, Tailwind CSS
-**Repositories:** 10+
-**Interests:** Machine Learning, Explainable AI, Full-Stack Development & Data-Driven Solutions
+Name: Malik Fahid Asif
+Focus: Data Science, AI/ML, HealthTech & Automotive Technology
+Languages & Technologies: Python, JavaScript, React, Node.js, C#, HTML, Tailwind CSS
+Repositories: 10+
+Interests: Machine Learning, Explainable AI, Full-Stack Development & Data-Driven Solutions
 ```
 
 </details>
