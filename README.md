@@ -22,67 +22,23 @@
 
 ## 🛠️ Methods & Tools
 
-### 💻 Programming & Web Development
-- 🐍 **Python**
-- 🟨 **JavaScript**
-- ⚛️ **React.js**
-- 🟦 **C# / .NET**
-- 🟢 **Node.js**
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- 💨 **Tailwind CSS**
-
-### 🤖 Data Science & AI
-- 📊 **Pandas**
-- 🔢 **NumPy**
-- 📈 **Matplotlib**
-- 🧠 **Scikit-learn**
-- 🚀 **XGBoost**
-- 💡 **LightGBM**
-- 🔍 **SHAP**
-- 🗣️ **NLTK**
-- 🧩 **spaCy**
-- 🤗 **Hugging Face**
-- 🔤 **Sentence Transformers**
-- 🔎 **FAISS**
-
-### 🔄 Automation & Data Engineering
-- ⚙️ **n8n**
-- 🕸️ **BeautifulSoup**
-- 🕷️ **Scrapy**
-- 🔗 **REST APIs**
-- 🔄 **ETL / Data Pipelines**
-
-### 🗄️ Databases
-- 🐘 **PostgreSQL**
-- 🐬 **MySQL**
-- 🍃 **MongoDB**
-- 🔎 **FAISS Vector Database**
-
-### 🐳 DevOps & Deployment
-- 🐳 **Docker**
-- ☁️ **AWS**
-- ☁️ **Microsoft Azure**
-- 🔁 **CI/CD**
-- 🌐 **Cloudflare**
-
-### 🧰 Development & Collaboration
-- 🐙 **Git & GitHub**
-- 💻 **VS Code**
-- 📓 **Jupyter Notebook**
-- 🧪 **Streamlit**
-- 🚀 **FastAPI**
-- 📝 **TeX / LaTeX**
-
-### 🔧 Data Science Tools
-- 🔷 **KNIME**
-- 🔄 **n8n**
-- 🐳 **Docker**
-- 🕸️ **Web Scraping**
-- 📊 **Data Visualization**
-- 🤖 **Machine Learning**
-- 🧠 **Explainable AI (XAI)**
-
+| Category | Technologies & Tools |
+|---|---|
+| **Programming** | 🐍 Python · 🟨 JavaScript · 🟦 C# |
+| **Frontend** | ⚛️ React.js · 🌐 HTML5 · 🎨 CSS3 · 💨 Tailwind CSS |
+| **Backend** | 🟢 Node.js · 🚀 FastAPI · 🟦 .NET / ASP.NET |
+| **Data Science** | 📊 Pandas · 🔢 NumPy · 📈 Matplotlib · 🧪 Scikit-learn |
+| **Machine Learning** | 🤖 XGBoost · 💡 LightGBM · 🔍 SHAP · KNN · Random Forest |
+| **NLP & AI** | 🗣️ NLTK · 🧩 spaCy · 🤗 Hugging Face · 🔤 Sentence Transformers |
+| **Generative AI** | 🧠 LLMs · RAG · 🤖 AI Agents · CrewAI |
+| **Vector Search** | 🔎 FAISS · 📐 Embeddings · Semantic Search |
+| **Automation** | ⚙️ n8n · 🔄 ETL · 🔗 REST APIs · Data Pipelines |
+| **Web Scraping** | 🕸️ BeautifulSoup · 🕷️ Scrapy |
+| **Databases** | 🐘 PostgreSQL · 🐬 MySQL · 🍃 MongoDB |
+| **Visualization & Apps** | 📊 Streamlit · 📓 Jupyter Notebook |
+| **DevOps** | 🐳 Docker · ☁️ AWS · ☁️ Azure · 🔁 CI/CD |
+| **Development Tools** | 🐙 Git · GitHub · 💻 VS Code · 🔷 KNIME |
+| **Documentation** | 📝 TeX / LaTeX |
 ## Research notes
 
 <details open>
